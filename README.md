@@ -9,6 +9,8 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Alumno: Cesar Céspedes Loayza
+
 ## Descripción del contenido
 
 Carpetas:
